@@ -1,0 +1,1 @@
+A project to create a implementation of the pollsy iPhone app
